@@ -1,0 +1,1474 @@
+TBirthday Facts
+v7
+r0
+t315935092.964808
+cCheck dependencies
+cCpResource "build/Debug-iphoneos/Birthday Facts.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/Info.plist" Birthday_Facts-Info.plist
+cCompileXIB "/Users/jrk/Dropbox/Birthday Facts/MainWindow.xib"
+cCompileXIB "/Users/jrk/Dropbox/Birthday Facts/RootViewController.xib"
+cCopyPNGFile "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/cake_lower.png" cake_lower.png
+cCopyPNGFile "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/cake_upper.png" cake_upper.png
+cCopyPNGFile "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/cake_lower_inverse.png" cake_lower_inverse.png
+cCopyPNGFile "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/cake_upper_inverse.png" cake_upper_inverse.png
+cCopyPNGFile "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/11-clock.png" 11-clock.png
+cCopyPNGFile "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/11-clock@2x.png" 11-clock@2x.png
+cCompileXIB "/Users/jrk/Dropbox/Birthday Facts/Classes/MenuScreenViewController.xib"
+cCopyPNGFile "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/fonas_full-Decoded.png" fonas_full-Decoded.png
+cCpResource "build/Debug-iphoneos/Birthday Facts.app/iPad_fonas.jpg" iPad_fonas.jpg
+cCompileXIB "/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.xib"
+cCompileXIB "/Users/jrk/Dropbox/Birthday Facts/Classes/WebViewController.xib"
+cCopyPNGFile "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/two_item_menu_bottom.png" two_item_menu_bottom.png
+cCopyPNGFile "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/two_item_menu_top.png" two_item_menu_top.png
+cCopyPNGFile "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/back.png" back.png
+cCopyPNGFile "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/logo_big.png" logo_big.png
+cCopyPNGFile "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/logo_small.png" logo_small.png
+cCopyPNGFile "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/three_item_menu_bottom.png" three_item_menu_bottom.png
+cCopyPNGFile "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/three_item_menu_middle.png" three_item_menu_middle.png
+cCopyPNGFile "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/three_item_menu_top.png" three_item_menu_top.png
+cCopyPNGFile "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/back2.png" back2.png
+cProcessPCH /var/folders/It/IttwIeUMFDKZzn-5dyiHeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Birthday_Facts_Prefix-geilgnoeyfgwrnfwgyvzzoslhaho/Birthday_Facts_Prefix.pch.gch Birthday_Facts_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/It/IttwIeUMFDKZzn-5dyiHeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Birthday_Facts_Prefix-eqqbvhveemmuspgydnrvuqsieeqn/Birthday_Facts_Prefix.pch.gch Birthday_Facts_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cDataModelVersionCompile "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/Birthday_Facts.momd" "/Users/jrk/Dropbox/Birthday Facts/Birthday_Facts.xcdatamodeld"
+cCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/main.o" "/Users/jrk/Dropbox/Birthday Facts/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/Birthday_FactsAppDelegate.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/Birthday_FactsAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/RootViewController.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/RootViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/UIViewController+CornersAndBorders.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/UIViewController+CornersAndBorders.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/MenuScreenViewController.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/MenuScreenViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/FactsViewController.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/FactsViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/MainViewController.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/MainViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/EventsViewController.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/EventsViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/DataViewController.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/StatisticsViewController.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/StatisticsViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/NumbersViewController.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/NumbersViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/BornViewController.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/BornViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/DiedViewController.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/DiedViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/WorldEventsViewController.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/WorldEventsViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/WebViewController.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/WebViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/main.o" "/Users/jrk/Dropbox/Birthday Facts/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/Birthday_FactsAppDelegate.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/Birthday_FactsAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/Birthday Facts" normal armv6
+cCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/RootViewController.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/RootViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/UIViewController+CornersAndBorders.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/UIViewController+CornersAndBorders.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/MenuScreenViewController.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/MenuScreenViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/FactsViewController.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/FactsViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/MainViewController.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/MainViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/EventsViewController.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/EventsViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/DataViewController.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/StatisticsViewController.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/StatisticsViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/NumbersViewController.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/NumbersViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/BornViewController.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/BornViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/DiedViewController.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/DiedViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/WorldEventsViewController.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/WorldEventsViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/WebViewController.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/WebViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/Birthday Facts" normal armv7
+cCreateUniversalBinary "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/Birthday Facts" normal "armv6 armv7"
+cGenerateDSYMFile "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app.dSYM" "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/Birthday Facts"
+cProcessProductPackaging "/Users/jrk/Library/MobileDevice/Provisioning Profiles/CE2D2884-90BB-4961-9234-14481A2D911D.mobileprovision" "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/embedded.mobileprovision"
+cTouch "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app"
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts.xcent"
+cCodeSign "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+c000000004CB3DFCF00000000000001A7
+t1286856655
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004D222A500000000000300DE0
+t1294084688
+s3149280
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004CC10F8D000000000000046B
+t1287720845
+s1131
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D222A5000000000003532B0
+t1294084688
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D222A5200000000003E1F20
+t1294084690
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1111C00000000000000C4
+t1287721244
+s196
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D222A560000000000C769F0
+t1294084694
+s13068784
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/iAd.framework/iAd
+c000000004D222A530000000000050EB0
+t1294084691
+s331440
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/Availability.h
+c000000004CB3FBB80000000000001ADD
+t1286863800
+s6877
+
+N/Users/jrk/Dropbox/Birthday Facts/11-clock.png
+c000000004CAA0F590000000000000C88
+t1286213465
+s3208
+
+N/Users/jrk/Dropbox/Birthday Facts/11-clock@2x.png
+c000000004CAA0F740000000000000D25
+t1286213492
+s3365
+
+N/Users/jrk/Dropbox/Birthday Facts/Birthday_Facts.xcdatamodeld
+c000000004CA9B8120000000000000088
+t1286191122
+s136
+
+N/Users/jrk/Dropbox/Birthday Facts/Birthday_Facts_Prefix.pch
+c000000004CA9EB3E00000000000001B2
+t1286204222
+s434
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/jrk/Dropbox/Birthday Facts/Classes/Birthday_FactsAppDelegate.h
+c000000004CA9BCC500000000000003ED
+t1286192325
+s1005
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/jrk/Dropbox/Birthday Facts/Classes/Birthday_FactsAppDelegate.m
+c000000004CAF16860000000000002085
+t1286542982
+s8325
+i"Birthday_FactsAppDelegate.h"
+i"RootViewController.h"
+i"MainViewController.h"
+
+N/Users/jrk/Dropbox/Birthday Facts/Classes/BornViewController.h
+c000000004CAEFCBA0000000000000109
+t1286536378
+s265
+i<Foundation/Foundation.h>
+i"DataViewController.h"
+
+N/Users/jrk/Dropbox/Birthday Facts/Classes/BornViewController.m
+c000000004CAEFD040000000000000199
+t1286536452
+s409
+i"BornViewController.h"
+
+N/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.h
+c000000004CAF090500000000000002C7
+t1286539525
+s711
+i<UIKit/UIKit.h>
+
+N/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.m
+c000000004CB2C9220000000000001955
+t1286785314
+s6485
+i"DataViewController.h"
+i"WebViewController.h"
+
+N/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.xib
+c000000004CB2CA600000000000005B48
+t1286785632
+s23368
+
+N/Users/jrk/Dropbox/Birthday Facts/Classes/DiedViewController.h
+c000000004CAEFCBA000000000000010A
+t1286536378
+s266
+i<Foundation/Foundation.h>
+i"DataViewController.h"
+
+N/Users/jrk/Dropbox/Birthday Facts/Classes/DiedViewController.m
+c000000004CAEFD040000000000000199
+t1286536452
+s409
+i"DiedViewController.h"
+
+N/Users/jrk/Dropbox/Birthday Facts/Classes/EventsViewController.h
+c000000004CAB88260000000000000119
+t1286309926
+s281
+i<Foundation/Foundation.h>
+i"MenuScreenViewController.h"
+
+N/Users/jrk/Dropbox/Birthday Facts/Classes/EventsViewController.m
+c000000004CB2C8D100000000000007B2
+t1286785233
+s1970
+i"EventsViewController.h"
+i"BornViewController.h"
+i"DiedViewController.h"
+i"WorldEventsViewController.h"
+
+N/Users/jrk/Dropbox/Birthday Facts/Classes/FactsViewController.h
+c000000004CADD880000000000000015E
+t1286461568
+s350
+i<Foundation/Foundation.h>
+i"MenuScreenViewController.h"
+i"StatisticsViewController.h"
+i"NumbersViewController.h"
+
+N/Users/jrk/Dropbox/Birthday Facts/Classes/FactsViewController.m
+c000000004CB2C56C00000000000005E9
+t1286784364
+s1513
+i"FactsViewController.h"
+
+N/Users/jrk/Dropbox/Birthday Facts/Classes/MainViewController.h
+c000000004CAB62350000000000000188
+t1286300213
+s392
+i<Foundation/Foundation.h>
+i"MenuScreenViewController.h"
+
+N/Users/jrk/Dropbox/Birthday Facts/Classes/MainViewController.m
+c000000004CB2C15C0000000000000AB5
+t1286783324
+s2741
+i"MainViewController.h"
+i"FactsViewController.h"
+i"EventsViewController.h"
+
+N/Users/jrk/Dropbox/Birthday Facts/Classes/MenuScreenViewController.h
+c000000004CAB5CDB0000000000000502
+t1286298843
+s1282
+i<UIKit/UIKit.h>
+
+N/Users/jrk/Dropbox/Birthday Facts/Classes/MenuScreenViewController.m
+c000000004CB2C6120000000000001C37
+t1286784530
+s7223
+i"MenuScreenViewController.h"
+i"UIViewController+CornersAndBorders.h"
+
+N/Users/jrk/Dropbox/Birthday Facts/Classes/MenuScreenViewController.xib
+c000000004CB2CA8B0000000000005B8D
+t1286785675
+s23437
+
+N/Users/jrk/Dropbox/Birthday Facts/Classes/NumbersViewController.h
+c000000004CADD834000000000000010F
+t1286461492
+s271
+i<Foundation/Foundation.h>
+i"DataViewController.h"
+
+N/Users/jrk/Dropbox/Birthday Facts/Classes/NumbersViewController.m
+c000000004CADD84B00000000000001A3
+t1286461515
+s419
+i"NumbersViewController.h"
+
+N/Users/jrk/Dropbox/Birthday Facts/Classes/RootViewController.h
+c000000004CA9B811000000000000023E
+t1286191121
+s574
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/jrk/Dropbox/Birthday Facts/Classes/RootViewController.m
+c000000004CA9B92A0000000000002EE3
+t1286191402
+s12003
+i"RootViewController.h"
+
+N/Users/jrk/Dropbox/Birthday Facts/Classes/StatisticsViewController.h
+c000000004CADD6440000000000000115
+t1286460996
+s277
+i<Foundation/Foundation.h>
+i"DataViewController.h"
+
+N/Users/jrk/Dropbox/Birthday Facts/Classes/StatisticsViewController.m
+c000000004CAE108B000000000000018F
+t1286475915
+s399
+i"StatisticsViewController.h"
+
+N/Users/jrk/Dropbox/Birthday Facts/Classes/UIViewController+CornersAndBorders.h
+c000000004CA9F0920000000000000158
+t1286205586
+s344
+i<Foundation/Foundation.h>
+
+N/Users/jrk/Dropbox/Birthday Facts/Classes/UIViewController+CornersAndBorders.m
+c000000004CB2C415000000000000036C
+t1286784021
+s876
+i"UIViewController+CornersAndBorders.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/jrk/Dropbox/Birthday Facts/Classes/WebViewController.h
+c000000004CAF13CA00000000000001A3
+t1286542282
+s419
+i<UIKit/UIKit.h>
+
+N/Users/jrk/Dropbox/Birthday Facts/Classes/WebViewController.m
+c000000004CAF16550000000000000A66
+t1286542933
+s2662
+i"WebViewController.h"
+
+N/Users/jrk/Dropbox/Birthday Facts/Classes/WebViewController.xib
+c000000004CB2C9530000000000005CB9
+t1286785363
+s23737
+
+N/Users/jrk/Dropbox/Birthday Facts/Classes/WorldEventsViewController.h
+c000000004CAEFC670000000000000118
+t1286536295
+s280
+i<Foundation/Foundation.h>
+i"DataViewController.h"
+
+N/Users/jrk/Dropbox/Birthday Facts/Classes/WorldEventsViewController.m
+c000000004CAEFD0400000000000001AE
+t1286536452
+s430
+i"WorldEventsViewController.h"
+
+N/Users/jrk/Dropbox/Birthday Facts/MainWindow.xib
+c000000004CB2C54000000000000055AF
+t1286784320
+s21935
+
+N/Users/jrk/Dropbox/Birthday Facts/RootViewController.xib
+c000000004CA9B8120000000000004459
+t1286191122
+s17497
+
+N/Users/jrk/Dropbox/Birthday Facts/back.png
+c000000004CB2C1EC000000000000B44D
+t1286783468
+s46157
+
+N/Users/jrk/Dropbox/Birthday Facts/back2.png
+c000000004CB2CA47000000000000BEDF
+t1286785607
+s48863
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts.xcent
+t1294242292
+s434
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/Birthday Facts
+t1294242291
+s71984
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/Birthday Facts.LinkFileList
+c000000004D2491E10000000000000846
+t1294242273
+s2118
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/Birthday_FactsAppDelegate.o
+t1294242289
+s65720
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/BornViewController.o
+t1294242290
+s38508
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/DataViewController.o
+t1294242289
+s54232
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/DiedViewController.o
+t1294242290
+s38508
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/EventsViewController.o
+t1294242289
+s42972
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/FactsViewController.o
+t1294242289
+s41980
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/MainViewController.o
+t1294242289
+s47504
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/MenuScreenViewController.o
+t1294242289
+s61324
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/NumbersViewController.o
+t1294242290
+s38548
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/RootViewController.o
+t1294242289
+s66028
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/StatisticsViewController.o
+t1294242290
+s38560
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/UIViewController+CornersAndBorders.o
+t1294242289
+s38620
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/WebViewController.o
+t1294242290
+s44808
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/WorldEventsViewController.o
+t1294242290
+s38604
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/main.o
+t1294242289
+s6436
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/Birthday Facts
+t1294242291
+s71844
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/Birthday Facts.LinkFileList
+c000000004D2491E10000000000000846
+t1294242273
+s2118
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/Birthday_FactsAppDelegate.o
+t1294242290
+s65480
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/BornViewController.o
+t1294242291
+s38480
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/DataViewController.o
+t1294242291
+s53848
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/DiedViewController.o
+t1294242291
+s38480
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/EventsViewController.o
+t1294242291
+s42828
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/FactsViewController.o
+t1294242290
+s41868
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/MainViewController.o
+t1294242290
+s47248
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/MenuScreenViewController.o
+t1294242290
+s60380
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/NumbersViewController.o
+t1294242291
+s38520
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/RootViewController.o
+t1294242290
+s65464
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/StatisticsViewController.o
+t1294242291
+s38532
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/UIViewController+CornersAndBorders.o
+t1294242290
+s38588
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/WebViewController.o
+t1294242291
+s44652
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/WorldEventsViewController.o
+t1294242291
+s38576
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/main.o
+t1294242290
+s6420
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app
+t1294242292
+s1088
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app.dSYM
+t1294242292
+s102
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/11-clock.png
+t1294242281
+s3667
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/11-clock@2x.png
+t1294242282
+s3558
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/Birthday Facts
+t1294242291
+s149668
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/Birthday_Facts.momd
+t1294242288
+s136
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/DataViewController.nib
+t1294242283
+s1555
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/Info.plist
+t1294242273
+s809
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/MainWindow.nib
+t1294242280
+s1284
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/MenuScreenViewController.nib
+t1294242282
+s1615
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/PkgInfo
+t1294242273
+s8
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/ResourceRules.plist
+t1294242273
+s485
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/RootViewController.nib
+t1294242280
+s979
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/WebViewController.nib
+t1294242284
+s1473
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/back.png
+t1294242283
+s46713
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/back2.png
+t1294242284
+s48821
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/cake_lower.png
+t1294242281
+s58988
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/cake_lower_inverse.png
+t1294242281
+s58980
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/cake_upper.png
+t1294242281
+s51877
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/cake_upper_inverse.png
+t1294242281
+s51868
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/embedded.mobileprovision
+t1294242292
+s7186
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/fonas_full-Decoded.png
+t1294242282
+s217141
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/iPad_fonas.jpg
+t1294242282
+s311151
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/logo_big.png
+t1294242283
+s27228
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/logo_small.png
+t1294242283
+s11749
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/three_item_menu_bottom.png
+t1294242283
+s6181
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/three_item_menu_middle.png
+t1294242284
+s5448
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/three_item_menu_top.png
+t1294242284
+s7327
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/two_item_menu_bottom.png
+t1294242283
+s6354
+
+N/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/two_item_menu_top.png
+t1294242283
+s7527
+
+N/Users/jrk/Dropbox/Birthday Facts/cake_lower.png
+c000000004CA9F69E000000000000E5A9
+t1286207134
+s58793
+
+N/Users/jrk/Dropbox/Birthday Facts/cake_lower_inverse.png
+c000000004CA9F72A000000000000E698
+t1286207274
+s59032
+
+N/Users/jrk/Dropbox/Birthday Facts/cake_upper.png
+c000000004CA9F6A7000000000000C260
+t1286207143
+s49760
+
+N/Users/jrk/Dropbox/Birthday Facts/cake_upper_inverse.png
+c000000004CA9F731000000000000C267
+t1286207281
+s49767
+
+N/Users/jrk/Dropbox/Birthday Facts/fonas_full-Decoded.png
+c000000004CAC4A2E00000000000383D7
+t1286359598
+s230359
+
+N/Users/jrk/Dropbox/Birthday Facts/iPad_fonas.jpg
+c000000004C91BD18000000000004BF6F
+t1284619544
+s311151
+
+N/Users/jrk/Dropbox/Birthday Facts/logo_big.png
+c000000004CB2C23100000000000066D8
+t1286783537
+s26328
+
+N/Users/jrk/Dropbox/Birthday Facts/logo_small.png
+c000000004CB2C28C0000000000002FF6
+t1286783628
+s12278
+
+N/Users/jrk/Dropbox/Birthday Facts/main.m
+c000000004CA9B8120000000000000160
+t1286191122
+s352
+i<UIKit/UIKit.h>
+
+N/Users/jrk/Dropbox/Birthday Facts/three_item_menu_bottom.png
+c000000004CB2C86B0000000000001A24
+t1286785131
+s6692
+
+N/Users/jrk/Dropbox/Birthday Facts/three_item_menu_middle.png
+c000000004CB2C8490000000000001626
+t1286785097
+s5670
+
+N/Users/jrk/Dropbox/Birthday Facts/three_item_menu_top.png
+c000000004CB2C81D0000000000001DEF
+t1286785053
+s7663
+
+N/Users/jrk/Dropbox/Birthday Facts/two_item_menu_bottom.png
+c000000004CB2C1330000000000001B0E
+t1286783283
+s6926
+
+N/Users/jrk/Dropbox/Birthday Facts/two_item_menu_top.png
+c000000004CB2C1110000000000001F5B
+t1286783249
+s8027
+
+N/Users/jrk/Library/MobileDevice/Provisioning Profiles/2B52CCCB-FFDC-4D4A-B3C2-960BABDED001.mobileprovision
+c000000004CDFDE130000000000001CF0
+t1289739795
+s7408
+
+N/Users/jrk/Library/MobileDevice/Provisioning Profiles/CE2D2884-90BB-4961-9234-14481A2D911D.mobileprovision
+c000000004CC019970000000000001C12
+t1287657879
+s7186
+
+N/var/folders/It/IttwIeUMFDKZzn-5dyiHeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Birthday_Facts_Prefix-eqqbvhveemmuspgydnrvuqsieeqn/Birthday_Facts_Prefix.pch.gch
+t1294242288
+s11295712
+
+N/var/folders/It/IttwIeUMFDKZzn-5dyiHeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Birthday_Facts_Prefix-geilgnoeyfgwrnfwgyvzzoslhaho/Birthday_Facts_Prefix.pch.gch
+t1294242288
+s10832864
+
+NBirthday_Facts-Info.plist
+c000000004CA9B812000000000000038D
+t1286191122
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies315935073#315935073#0(0"0(0#1#0"29836824280170608#0"0#
+
+CCodeSign "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app"
+s315935092.395236
+e315935092.964769
+r1
+xCodeSign
+x/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app
+lSLF07#2@50"CodeSign "build/Debug-iphoneos/Birthday Facts.app"315935092#315935092#0(0"0(0#0#73"/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app8606681536#678"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Jaroslaw Szpilewski (4M65AH57PH)" "--resource-rules=/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/ResourceRules.plist" --entitlements "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts.xcent" "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app"0#
+
+CCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/Birthday_FactsAppDelegate.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/Birthday_FactsAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315935088.890163
+e315935089.157135
+r1
+xCompileC
+xbuild/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/Birthday_FactsAppDelegate.o
+x/Users/jrk/Dropbox/Birthday Facts/Classes/Birthday_FactsAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/jrk/Dropbox/Birthday Facts/Classes/Birthday_FactsAppDelegate.m315935088#315935089#0(0"0(0#0#69"/Users/jrk/Dropbox/Birthday Facts/Classes/Birthday_FactsAppDelegate.m8593684544#1881"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-generated-files.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-own-target-headers.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-all-target-headers.hmap" -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-project-headers.hmap" "-F/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos" "-I/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/include" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources/armv6" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources" -include /var/folders/It/IttwIeUMFDKZzn-5dyiHeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Birthday_Facts_Prefix-geilgnoeyfgwrnfwgyvzzoslhaho/Birthday_Facts_Prefix.pch -c "/Users/jrk/Dropbox/Birthday Facts/Classes/Birthday_FactsAppDelegate.m" -o "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/Birthday_FactsAppDelegate.o"0#
+
+CCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/BornViewController.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/BornViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315935090.111077
+e315935090.211468
+r1
+xCompileC
+xbuild/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/BornViewController.o
+x/Users/jrk/Dropbox/Birthday Facts/Classes/BornViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/jrk/Dropbox/Birthday Facts/Classes/BornViewController.m315935090#315935090#0(0"0(0#0#62"/Users/jrk/Dropbox/Birthday Facts/Classes/BornViewController.m8601184416#1867"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-generated-files.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-own-target-headers.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-all-target-headers.hmap" -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-project-headers.hmap" "-F/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos" "-I/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/include" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources/armv6" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources" -include /var/folders/It/IttwIeUMFDKZzn-5dyiHeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Birthday_Facts_Prefix-geilgnoeyfgwrnfwgyvzzoslhaho/Birthday_Facts_Prefix.pch -c "/Users/jrk/Dropbox/Birthday Facts/Classes/BornViewController.m" -o "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/BornViewController.o"0#
+
+CCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/DataViewController.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315935089.742461
+e315935089.997707
+r1
+xCompileC
+xbuild/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/DataViewController.o
+x/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.m: In function '-[DataViewController viewDidLoad]':
+o/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.m:65: warning: 'DataViewController' may not respond to '-setBorderAndCornersForView:'
+o/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.m:65: warning: (Messages without a matching method signature
+o/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.m:65: warning: will be assumed to return 'id' and accept
+o/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.m:65: warning: '...' as arguments.)
+o/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.m: In function '-[DataViewController tableView:didSelectRowAtIndexPath:]':
+o/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.m:180: warning: 'DataViewController' may not respond to '-didSelectMenuItemWithIndex:'
+lSLF07#2@70"Compile /Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.m315935089#315935089#0(881"/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.m: In function '-[DataViewController viewDidLoad]':/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.m:65: warning: 'DataViewController' may not respond to '-setBorderAndCornersForView:'/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.m:65: warning: (Messages without a matching method signature/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.m:65: warning: will be assumed to return 'id' and accept/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.m:65: warning: '...' as arguments.)/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.m: In function '-[DataViewController tableView:didSelectRowAtIndexPath:]':/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.m:180: warning: 'DataViewController' may not respond to '-didSelectMenuItemWithIndex:'3(22@70"'DataViewController' may not respond to '-setBorderAndCornersForView:'315935089#113#147#0(6@62"/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.m308478114#65#0#65#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)315935089#260#122#0(6@62"/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.m308478114#65#0#65#0#0"0(22@70"'DataViewController' may not respond to '-didSelectMenuItemWithIndex:'315935089#733#148#0(6@62"/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.m308478114#180#0#180#0#26"'*' may not respond to '*'0(0#0#62"/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.m8608940832#1867"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-generated-files.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-own-target-headers.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-all-target-headers.hmap" -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-project-headers.hmap" "-F/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos" "-I/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/include" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources/armv6" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources" -include /var/folders/It/IttwIeUMFDKZzn-5dyiHeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Birthday_Facts_Prefix-geilgnoeyfgwrnfwgyvzzoslhaho/Birthday_Facts_Prefix.pch -c "/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.m" -o "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/DataViewController.o"0#
+
+CCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/DiedViewController.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/DiedViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315935090.117382
+e315935090.237603
+r1
+xCompileC
+xbuild/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/DiedViewController.o
+x/Users/jrk/Dropbox/Birthday Facts/Classes/DiedViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/jrk/Dropbox/Birthday Facts/Classes/DiedViewController.m315935090#315935090#0(0"0(0#0#62"/Users/jrk/Dropbox/Birthday Facts/Classes/DiedViewController.m8607174592#1867"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-generated-files.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-own-target-headers.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-all-target-headers.hmap" -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-project-headers.hmap" "-F/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos" "-I/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/include" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources/armv6" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources" -include /var/folders/It/IttwIeUMFDKZzn-5dyiHeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Birthday_Facts_Prefix-geilgnoeyfgwrnfwgyvzzoslhaho/Birthday_Facts_Prefix.pch -c "/Users/jrk/Dropbox/Birthday Facts/Classes/DiedViewController.m" -o "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/DiedViewController.o"0#
+
+CCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/EventsViewController.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/EventsViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315935089.729698
+e315935089.977218
+r1
+xCompileC
+xbuild/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/EventsViewController.o
+x/Users/jrk/Dropbox/Birthday Facts/Classes/EventsViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/jrk/Dropbox/Birthday Facts/Classes/EventsViewController.m315935089#315935089#0(0"0(0#0#64"/Users/jrk/Dropbox/Birthday Facts/Classes/EventsViewController.m8607640960#1871"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-generated-files.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-own-target-headers.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-all-target-headers.hmap" -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-project-headers.hmap" "-F/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos" "-I/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/include" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources/armv6" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources" -include /var/folders/It/IttwIeUMFDKZzn-5dyiHeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Birthday_Facts_Prefix-geilgnoeyfgwrnfwgyvzzoslhaho/Birthday_Facts_Prefix.pch -c "/Users/jrk/Dropbox/Birthday Facts/Classes/EventsViewController.m" -o "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/EventsViewController.o"0#
+
+CCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/FactsViewController.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/FactsViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315935089.446951
+e315935089.729605
+r1
+xCompileC
+xbuild/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/FactsViewController.o
+x/Users/jrk/Dropbox/Birthday Facts/Classes/FactsViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/jrk/Dropbox/Birthday Facts/Classes/FactsViewController.m315935089#315935089#0(0"0(0#0#63"/Users/jrk/Dropbox/Birthday Facts/Classes/FactsViewController.m8607415904#1869"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-generated-files.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-own-target-headers.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-all-target-headers.hmap" -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-project-headers.hmap" "-F/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos" "-I/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/include" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources/armv6" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources" -include /var/folders/It/IttwIeUMFDKZzn-5dyiHeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Birthday_Facts_Prefix-geilgnoeyfgwrnfwgyvzzoslhaho/Birthday_Facts_Prefix.pch -c "/Users/jrk/Dropbox/Birthday Facts/Classes/FactsViewController.m" -o "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/FactsViewController.o"0#
+
+CCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/MainViewController.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/MainViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315935089.539004
+e315935089.742366
+r1
+xCompileC
+xbuild/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/MainViewController.o
+x/Users/jrk/Dropbox/Birthday Facts/Classes/MainViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/jrk/Dropbox/Birthday Facts/Classes/MainViewController.m315935089#315935089#0(0"0(0#0#62"/Users/jrk/Dropbox/Birthday Facts/Classes/MainViewController.m8607498976#1867"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-generated-files.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-own-target-headers.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-all-target-headers.hmap" -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-project-headers.hmap" "-F/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos" "-I/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/include" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources/armv6" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources" -include /var/folders/It/IttwIeUMFDKZzn-5dyiHeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Birthday_Facts_Prefix-geilgnoeyfgwrnfwgyvzzoslhaho/Birthday_Facts_Prefix.pch -c "/Users/jrk/Dropbox/Birthday Facts/Classes/MainViewController.m" -o "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/MainViewController.o"0#
+
+CCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/MenuScreenViewController.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/MenuScreenViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315935089.313183
+e315935089.538905
+r1
+xCompileC
+xbuild/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/MenuScreenViewController.o
+x/Users/jrk/Dropbox/Birthday Facts/Classes/MenuScreenViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/jrk/Dropbox/Birthday Facts/Classes/MenuScreenViewController.m315935089#315935089#0(0"0(0#0#68"/Users/jrk/Dropbox/Birthday Facts/Classes/MenuScreenViewController.m8601825600#1879"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-generated-files.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-own-target-headers.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-all-target-headers.hmap" -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-project-headers.hmap" "-F/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos" "-I/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/include" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources/armv6" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources" -include /var/folders/It/IttwIeUMFDKZzn-5dyiHeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Birthday_Facts_Prefix-geilgnoeyfgwrnfwgyvzzoslhaho/Birthday_Facts_Prefix.pch -c "/Users/jrk/Dropbox/Birthday Facts/Classes/MenuScreenViewController.m" -o "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/MenuScreenViewController.o"0#
+
+CCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/NumbersViewController.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/NumbersViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315935089.997794
+e315935090.117292
+r1
+xCompileC
+xbuild/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/NumbersViewController.o
+x/Users/jrk/Dropbox/Birthday Facts/Classes/NumbersViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/jrk/Dropbox/Birthday Facts/Classes/NumbersViewController.m315935089#315935090#0(0"0(0#0#65"/Users/jrk/Dropbox/Birthday Facts/Classes/NumbersViewController.m8605058944#1873"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-generated-files.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-own-target-headers.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-all-target-headers.hmap" -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-project-headers.hmap" "-F/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos" "-I/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/include" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources/armv6" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources" -include /var/folders/It/IttwIeUMFDKZzn-5dyiHeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Birthday_Facts_Prefix-geilgnoeyfgwrnfwgyvzzoslhaho/Birthday_Facts_Prefix.pch -c "/Users/jrk/Dropbox/Birthday Facts/Classes/NumbersViewController.m" -o "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/NumbersViewController.o"0#
+
+CCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/RootViewController.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/RootViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315935089.007965
+e315935089.446860
+r1
+xCompileC
+xbuild/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/RootViewController.o
+x/Users/jrk/Dropbox/Birthday Facts/Classes/RootViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/jrk/Dropbox/Birthday Facts/Classes/RootViewController.m315935089#315935089#0(0"0(0#0#62"/Users/jrk/Dropbox/Birthday Facts/Classes/RootViewController.m8609028928#1867"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-generated-files.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-own-target-headers.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-all-target-headers.hmap" -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-project-headers.hmap" "-F/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos" "-I/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/include" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources/armv6" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources" -include /var/folders/It/IttwIeUMFDKZzn-5dyiHeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Birthday_Facts_Prefix-geilgnoeyfgwrnfwgyvzzoslhaho/Birthday_Facts_Prefix.pch -c "/Users/jrk/Dropbox/Birthday Facts/Classes/RootViewController.m" -o "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/RootViewController.o"0#
+
+CCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/StatisticsViewController.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/StatisticsViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315935089.977413
+e315935090.110977
+r1
+xCompileC
+xbuild/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/StatisticsViewController.o
+x/Users/jrk/Dropbox/Birthday Facts/Classes/StatisticsViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/jrk/Dropbox/Birthday Facts/Classes/StatisticsViewController.m315935089#315935090#0(0"0(0#0#68"/Users/jrk/Dropbox/Birthday Facts/Classes/StatisticsViewController.m8602182432#1879"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-generated-files.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-own-target-headers.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-all-target-headers.hmap" -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-project-headers.hmap" "-F/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos" "-I/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/include" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources/armv6" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources" -include /var/folders/It/IttwIeUMFDKZzn-5dyiHeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Birthday_Facts_Prefix-geilgnoeyfgwrnfwgyvzzoslhaho/Birthday_Facts_Prefix.pch -c "/Users/jrk/Dropbox/Birthday Facts/Classes/StatisticsViewController.m" -o "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/StatisticsViewController.o"0#
+
+CCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/UIViewController+CornersAndBorders.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/UIViewController+CornersAndBorders.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315935089.157228
+e315935089.313088
+r1
+xCompileC
+xbuild/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/UIViewController+CornersAndBorders.o
+x/Users/jrk/Dropbox/Birthday Facts/Classes/UIViewController+CornersAndBorders.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/jrk/Dropbox/Birthday Facts/Classes/UIViewController+CornersAndBorders.m315935089#315935089#0(0"0(0#0#78"/Users/jrk/Dropbox/Birthday Facts/Classes/UIViewController+CornersAndBorders.m8604469952#1899"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-generated-files.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-own-target-headers.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-all-target-headers.hmap" -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-project-headers.hmap" "-F/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos" "-I/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/include" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources/armv6" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources" -include /var/folders/It/IttwIeUMFDKZzn-5dyiHeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Birthday_Facts_Prefix-geilgnoeyfgwrnfwgyvzzoslhaho/Birthday_Facts_Prefix.pch -c "/Users/jrk/Dropbox/Birthday Facts/Classes/UIViewController+CornersAndBorders.m" -o "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/UIViewController+CornersAndBorders.o"0#
+
+CCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/WebViewController.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/WebViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315935090.237699
+e315935090.414816
+r1
+xCompileC
+xbuild/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/WebViewController.o
+x/Users/jrk/Dropbox/Birthday Facts/Classes/WebViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/jrk/Dropbox/Birthday Facts/Classes/WebViewController.m315935090#315935090#0(0"0(0#0#61"/Users/jrk/Dropbox/Birthday Facts/Classes/WebViewController.m8607020544#1865"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-generated-files.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-own-target-headers.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-all-target-headers.hmap" -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-project-headers.hmap" "-F/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos" "-I/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/include" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources/armv6" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources" -include /var/folders/It/IttwIeUMFDKZzn-5dyiHeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Birthday_Facts_Prefix-geilgnoeyfgwrnfwgyvzzoslhaho/Birthday_Facts_Prefix.pch -c "/Users/jrk/Dropbox/Birthday Facts/Classes/WebViewController.m" -o "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/WebViewController.o"0#
+
+CCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/WorldEventsViewController.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/WorldEventsViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315935090.211560
+e315935090.294809
+r1
+xCompileC
+xbuild/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/WorldEventsViewController.o
+x/Users/jrk/Dropbox/Birthday Facts/Classes/WorldEventsViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/jrk/Dropbox/Birthday Facts/Classes/WorldEventsViewController.m315935090#315935090#0(0"0(0#0#69"/Users/jrk/Dropbox/Birthday Facts/Classes/WorldEventsViewController.m8608859776#1881"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-generated-files.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-own-target-headers.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-all-target-headers.hmap" -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-project-headers.hmap" "-F/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos" "-I/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/include" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources/armv6" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources" -include /var/folders/It/IttwIeUMFDKZzn-5dyiHeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Birthday_Facts_Prefix-geilgnoeyfgwrnfwgyvzzoslhaho/Birthday_Facts_Prefix.pch -c "/Users/jrk/Dropbox/Birthday Facts/Classes/WorldEventsViewController.m" -o "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/WorldEventsViewController.o"0#
+
+CCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/main.o" "/Users/jrk/Dropbox/Birthday Facts/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315935088.675310
+e315935089.007876
+r1
+xCompileC
+xbuild/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/main.o
+x/Users/jrk/Dropbox/Birthday Facts/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/jrk/Dropbox/Birthday Facts/main.m315935088#315935089#0(0"0(0#0#40"/Users/jrk/Dropbox/Birthday Facts/main.m8608934304#1831"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-generated-files.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-own-target-headers.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-all-target-headers.hmap" -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-project-headers.hmap" "-F/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos" "-I/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/include" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources/armv6" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources" -include /var/folders/It/IttwIeUMFDKZzn-5dyiHeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Birthday_Facts_Prefix-geilgnoeyfgwrnfwgyvzzoslhaho/Birthday_Facts_Prefix.pch -c "/Users/jrk/Dropbox/Birthday Facts/main.m" -o "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/main.o"0#
+
+CCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/Birthday_FactsAppDelegate.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/Birthday_FactsAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315935090.367837
+e315935090.491151
+r1
+xCompileC
+xbuild/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/Birthday_FactsAppDelegate.o
+x/Users/jrk/Dropbox/Birthday Facts/Classes/Birthday_FactsAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/jrk/Dropbox/Birthday Facts/Classes/Birthday_FactsAppDelegate.m315935090#315935090#0(0"0(0#0#69"/Users/jrk/Dropbox/Birthday Facts/Classes/Birthday_FactsAppDelegate.m8607679584#1881"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-generated-files.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-own-target-headers.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-all-target-headers.hmap" -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-project-headers.hmap" "-F/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos" "-I/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/include" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources/armv7" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources" -include /var/folders/It/IttwIeUMFDKZzn-5dyiHeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Birthday_Facts_Prefix-eqqbvhveemmuspgydnrvuqsieeqn/Birthday_Facts_Prefix.pch -c "/Users/jrk/Dropbox/Birthday Facts/Classes/Birthday_FactsAppDelegate.m" -o "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/Birthday_FactsAppDelegate.o"0#
+
+CCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/BornViewController.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/BornViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315935091.201657
+e315935091.319325
+r1
+xCompileC
+xbuild/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/BornViewController.o
+x/Users/jrk/Dropbox/Birthday Facts/Classes/BornViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/jrk/Dropbox/Birthday Facts/Classes/BornViewController.m315935091#315935091#0(0"0(0#0#62"/Users/jrk/Dropbox/Birthday Facts/Classes/BornViewController.m8606660576#1867"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-generated-files.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-own-target-headers.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-all-target-headers.hmap" -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-project-headers.hmap" "-F/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos" "-I/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/include" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources/armv7" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources" -include /var/folders/It/IttwIeUMFDKZzn-5dyiHeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Birthday_Facts_Prefix-eqqbvhveemmuspgydnrvuqsieeqn/Birthday_Facts_Prefix.pch -c "/Users/jrk/Dropbox/Birthday Facts/Classes/BornViewController.m" -o "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/BornViewController.o"0#
+
+CCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/DataViewController.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315935091.021934
+e315935091.116155
+r1
+xCompileC
+xbuild/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/DataViewController.o
+x/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.m: In function '-[DataViewController viewDidLoad]':
+o/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.m:65: warning: 'DataViewController' may not respond to '-setBorderAndCornersForView:'
+o/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.m:65: warning: (Messages without a matching method signature
+o/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.m:65: warning: will be assumed to return 'id' and accept
+o/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.m:65: warning: '...' as arguments.)
+o/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.m: In function '-[DataViewController tableView:didSelectRowAtIndexPath:]':
+o/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.m:180: warning: 'DataViewController' may not respond to '-didSelectMenuItemWithIndex:'
+lSLF07#2@70"Compile /Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.m315935091#315935091#0(881"/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.m: In function '-[DataViewController viewDidLoad]':/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.m:65: warning: 'DataViewController' may not respond to '-setBorderAndCornersForView:'/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.m:65: warning: (Messages without a matching method signature/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.m:65: warning: will be assumed to return 'id' and accept/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.m:65: warning: '...' as arguments.)/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.m: In function '-[DataViewController tableView:didSelectRowAtIndexPath:]':/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.m:180: warning: 'DataViewController' may not respond to '-didSelectMenuItemWithIndex:'3(22@70"'DataViewController' may not respond to '-setBorderAndCornersForView:'315935091#113#147#0(6@62"/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.m308478114#65#0#65#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)315935091#260#122#0(6@62"/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.m308478114#65#0#65#0#0"0(22@70"'DataViewController' may not respond to '-didSelectMenuItemWithIndex:'315935091#733#148#0(6@62"/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.m308478114#180#0#180#0#26"'*' may not respond to '*'0(0#0#62"/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.m8607613472#1867"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-generated-files.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-own-target-headers.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-all-target-headers.hmap" -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-project-headers.hmap" "-F/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos" "-I/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/include" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources/armv7" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources" -include /var/folders/It/IttwIeUMFDKZzn-5dyiHeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Birthday_Facts_Prefix-eqqbvhveemmuspgydnrvuqsieeqn/Birthday_Facts_Prefix.pch -c "/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.m" -o "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/DataViewController.o"0#
+
+CCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/DiedViewController.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/DiedViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315935091.310536
+e315935091.424130
+r1
+xCompileC
+xbuild/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/DiedViewController.o
+x/Users/jrk/Dropbox/Birthday Facts/Classes/DiedViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/jrk/Dropbox/Birthday Facts/Classes/DiedViewController.m315935091#315935091#0(0"0(0#0#62"/Users/jrk/Dropbox/Birthday Facts/Classes/DiedViewController.m8609055264#1867"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-generated-files.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-own-target-headers.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-all-target-headers.hmap" -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-project-headers.hmap" "-F/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos" "-I/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/include" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources/armv7" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources" -include /var/folders/It/IttwIeUMFDKZzn-5dyiHeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Birthday_Facts_Prefix-eqqbvhveemmuspgydnrvuqsieeqn/Birthday_Facts_Prefix.pch -c "/Users/jrk/Dropbox/Birthday Facts/Classes/DiedViewController.m" -o "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/DiedViewController.o"0#
+
+CCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/EventsViewController.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/EventsViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315935090.960725
+e315935091.021841
+r1
+xCompileC
+xbuild/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/EventsViewController.o
+x/Users/jrk/Dropbox/Birthday Facts/Classes/EventsViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/jrk/Dropbox/Birthday Facts/Classes/EventsViewController.m315935090#315935091#0(0"0(0#0#64"/Users/jrk/Dropbox/Birthday Facts/Classes/EventsViewController.m8609689184#1871"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-generated-files.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-own-target-headers.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-all-target-headers.hmap" -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-project-headers.hmap" "-F/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos" "-I/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/include" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources/armv7" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources" -include /var/folders/It/IttwIeUMFDKZzn-5dyiHeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Birthday_Facts_Prefix-eqqbvhveemmuspgydnrvuqsieeqn/Birthday_Facts_Prefix.pch -c "/Users/jrk/Dropbox/Birthday Facts/Classes/EventsViewController.m" -o "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/EventsViewController.o"0#
+
+CCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/FactsViewController.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/FactsViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315935090.792861
+e315935090.865141
+r1
+xCompileC
+xbuild/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/FactsViewController.o
+x/Users/jrk/Dropbox/Birthday Facts/Classes/FactsViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/jrk/Dropbox/Birthday Facts/Classes/FactsViewController.m315935090#315935090#0(0"0(0#0#63"/Users/jrk/Dropbox/Birthday Facts/Classes/FactsViewController.m8608913184#1869"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-generated-files.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-own-target-headers.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-all-target-headers.hmap" -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-project-headers.hmap" "-F/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos" "-I/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/include" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources/armv7" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources" -include /var/folders/It/IttwIeUMFDKZzn-5dyiHeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Birthday_Facts_Prefix-eqqbvhveemmuspgydnrvuqsieeqn/Birthday_Facts_Prefix.pch -c "/Users/jrk/Dropbox/Birthday Facts/Classes/FactsViewController.m" -o "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/FactsViewController.o"0#
+
+CCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/MainViewController.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/MainViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315935090.865239
+e315935090.960632
+r1
+xCompileC
+xbuild/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/MainViewController.o
+x/Users/jrk/Dropbox/Birthday Facts/Classes/MainViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/jrk/Dropbox/Birthday Facts/Classes/MainViewController.m315935090#315935090#0(0"0(0#0#62"/Users/jrk/Dropbox/Birthday Facts/Classes/MainViewController.m8607221216#1867"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-generated-files.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-own-target-headers.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-all-target-headers.hmap" -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-project-headers.hmap" "-F/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos" "-I/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/include" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources/armv7" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources" -include /var/folders/It/IttwIeUMFDKZzn-5dyiHeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Birthday_Facts_Prefix-eqqbvhveemmuspgydnrvuqsieeqn/Birthday_Facts_Prefix.pch -c "/Users/jrk/Dropbox/Birthday Facts/Classes/MainViewController.m" -o "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/MainViewController.o"0#
+
+CCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/MenuScreenViewController.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/MenuScreenViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315935090.691299
+e315935090.792757
+r1
+xCompileC
+xbuild/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/MenuScreenViewController.o
+x/Users/jrk/Dropbox/Birthday Facts/Classes/MenuScreenViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/jrk/Dropbox/Birthday Facts/Classes/MenuScreenViewController.m315935090#315935090#0(0"0(0#0#68"/Users/jrk/Dropbox/Birthday Facts/Classes/MenuScreenViewController.m8605866720#1879"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-generated-files.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-own-target-headers.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-all-target-headers.hmap" -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-project-headers.hmap" "-F/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos" "-I/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/include" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources/armv7" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources" -include /var/folders/It/IttwIeUMFDKZzn-5dyiHeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Birthday_Facts_Prefix-eqqbvhveemmuspgydnrvuqsieeqn/Birthday_Facts_Prefix.pch -c "/Users/jrk/Dropbox/Birthday Facts/Classes/MenuScreenViewController.m" -o "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/MenuScreenViewController.o"0#
+
+CCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/NumbersViewController.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/NumbersViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315935091.183388
+e315935091.310442
+r1
+xCompileC
+xbuild/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/NumbersViewController.o
+x/Users/jrk/Dropbox/Birthday Facts/Classes/NumbersViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/jrk/Dropbox/Birthday Facts/Classes/NumbersViewController.m315935091#315935091#0(0"0(0#0#65"/Users/jrk/Dropbox/Birthday Facts/Classes/NumbersViewController.m8604345312#1873"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-generated-files.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-own-target-headers.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-all-target-headers.hmap" -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-project-headers.hmap" "-F/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos" "-I/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/include" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources/armv7" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources" -include /var/folders/It/IttwIeUMFDKZzn-5dyiHeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Birthday_Facts_Prefix-eqqbvhveemmuspgydnrvuqsieeqn/Birthday_Facts_Prefix.pch -c "/Users/jrk/Dropbox/Birthday Facts/Classes/NumbersViewController.m" -o "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/NumbersViewController.o"0#
+
+CCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/RootViewController.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/RootViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315935090.491254
+e315935090.635181
+r1
+xCompileC
+xbuild/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/RootViewController.o
+x/Users/jrk/Dropbox/Birthday Facts/Classes/RootViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/jrk/Dropbox/Birthday Facts/Classes/RootViewController.m315935090#315935090#0(0"0(0#0#62"/Users/jrk/Dropbox/Birthday Facts/Classes/RootViewController.m8609018368#1867"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-generated-files.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-own-target-headers.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-all-target-headers.hmap" -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-project-headers.hmap" "-F/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos" "-I/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/include" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources/armv7" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources" -include /var/folders/It/IttwIeUMFDKZzn-5dyiHeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Birthday_Facts_Prefix-eqqbvhveemmuspgydnrvuqsieeqn/Birthday_Facts_Prefix.pch -c "/Users/jrk/Dropbox/Birthday Facts/Classes/RootViewController.m" -o "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/RootViewController.o"0#
+
+CCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/StatisticsViewController.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/StatisticsViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315935091.116252
+e315935091.183291
+r1
+xCompileC
+xbuild/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/StatisticsViewController.o
+x/Users/jrk/Dropbox/Birthday Facts/Classes/StatisticsViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/jrk/Dropbox/Birthday Facts/Classes/StatisticsViewController.m315935091#315935091#0(0"0(0#0#68"/Users/jrk/Dropbox/Birthday Facts/Classes/StatisticsViewController.m8604795968#1879"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-generated-files.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-own-target-headers.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-all-target-headers.hmap" -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-project-headers.hmap" "-F/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos" "-I/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/include" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources/armv7" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources" -include /var/folders/It/IttwIeUMFDKZzn-5dyiHeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Birthday_Facts_Prefix-eqqbvhveemmuspgydnrvuqsieeqn/Birthday_Facts_Prefix.pch -c "/Users/jrk/Dropbox/Birthday Facts/Classes/StatisticsViewController.m" -o "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/StatisticsViewController.o"0#
+
+CCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/UIViewController+CornersAndBorders.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/UIViewController+CornersAndBorders.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315935090.635280
+e315935090.691200
+r1
+xCompileC
+xbuild/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/UIViewController+CornersAndBorders.o
+x/Users/jrk/Dropbox/Birthday Facts/Classes/UIViewController+CornersAndBorders.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/jrk/Dropbox/Birthday Facts/Classes/UIViewController+CornersAndBorders.m315935090#315935090#0(0"0(0#0#78"/Users/jrk/Dropbox/Birthday Facts/Classes/UIViewController+CornersAndBorders.m8604808736#1899"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-generated-files.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-own-target-headers.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-all-target-headers.hmap" -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-project-headers.hmap" "-F/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos" "-I/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/include" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources/armv7" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources" -include /var/folders/It/IttwIeUMFDKZzn-5dyiHeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Birthday_Facts_Prefix-eqqbvhveemmuspgydnrvuqsieeqn/Birthday_Facts_Prefix.pch -c "/Users/jrk/Dropbox/Birthday Facts/Classes/UIViewController+CornersAndBorders.m" -o "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/UIViewController+CornersAndBorders.o"0#
+
+CCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/WebViewController.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/WebViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315935091.422090
+e315935091.501046
+r1
+xCompileC
+xbuild/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/WebViewController.o
+x/Users/jrk/Dropbox/Birthday Facts/Classes/WebViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/jrk/Dropbox/Birthday Facts/Classes/WebViewController.m315935091#315935091#0(0"0(0#0#61"/Users/jrk/Dropbox/Birthday Facts/Classes/WebViewController.m8606635488#1865"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-generated-files.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-own-target-headers.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-all-target-headers.hmap" -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-project-headers.hmap" "-F/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos" "-I/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/include" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources/armv7" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources" -include /var/folders/It/IttwIeUMFDKZzn-5dyiHeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Birthday_Facts_Prefix-eqqbvhveemmuspgydnrvuqsieeqn/Birthday_Facts_Prefix.pch -c "/Users/jrk/Dropbox/Birthday Facts/Classes/WebViewController.m" -o "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/WebViewController.o"0#
+
+CCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/WorldEventsViewController.o" "/Users/jrk/Dropbox/Birthday Facts/Classes/WorldEventsViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315935091.319416
+e315935091.421991
+r1
+xCompileC
+xbuild/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/WorldEventsViewController.o
+x/Users/jrk/Dropbox/Birthday Facts/Classes/WorldEventsViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/jrk/Dropbox/Birthday Facts/Classes/WorldEventsViewController.m315935091#315935091#0(0"0(0#0#69"/Users/jrk/Dropbox/Birthday Facts/Classes/WorldEventsViewController.m8607438400#1881"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-generated-files.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-own-target-headers.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-all-target-headers.hmap" -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-project-headers.hmap" "-F/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos" "-I/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/include" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources/armv7" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources" -include /var/folders/It/IttwIeUMFDKZzn-5dyiHeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Birthday_Facts_Prefix-eqqbvhveemmuspgydnrvuqsieeqn/Birthday_Facts_Prefix.pch -c "/Users/jrk/Dropbox/Birthday Facts/Classes/WorldEventsViewController.m" -o "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/WorldEventsViewController.o"0#
+
+CCompileC "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/main.o" "/Users/jrk/Dropbox/Birthday Facts/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315935090.294906
+e315935090.367740
+r1
+xCompileC
+xbuild/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/main.o
+x/Users/jrk/Dropbox/Birthday Facts/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/jrk/Dropbox/Birthday Facts/main.m315935090#315935090#0(0"0(0#0#40"/Users/jrk/Dropbox/Birthday Facts/main.m8609667872#1831"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-generated-files.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-own-target-headers.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-all-target-headers.hmap" -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-project-headers.hmap" "-F/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos" "-I/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/include" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources/armv7" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources" -include /var/folders/It/IttwIeUMFDKZzn-5dyiHeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Birthday_Facts_Prefix-eqqbvhveemmuspgydnrvuqsieeqn/Birthday_Facts_Prefix.pch -c "/Users/jrk/Dropbox/Birthday Facts/main.m" -o "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/main.o"0#
+
+CCompileXIB "/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.xib"
+s315935082.693410
+e315935083.238946
+r1
+xCompileXIB
+x/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.xib
+lSLF07#2@41"CompileXIB Classes/DataViewController.xib315935082#315935083#0(0"0(0#0#64"/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.xib8606786976#564"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/DataViewController.nib" "/Users/jrk/Dropbox/Birthday Facts/Classes/DataViewController.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB "/Users/jrk/Dropbox/Birthday Facts/Classes/MenuScreenViewController.xib"
+s315935081.982269
+e315935082.692530
+r1
+xCompileXIB
+x/Users/jrk/Dropbox/Birthday Facts/Classes/MenuScreenViewController.xib
+lSLF07#2@47"CompileXIB Classes/MenuScreenViewController.xib315935081#315935082#0(0"0(0#0#70"/Users/jrk/Dropbox/Birthday Facts/Classes/MenuScreenViewController.xib8609350112#576"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/MenuScreenViewController.nib" "/Users/jrk/Dropbox/Birthday Facts/Classes/MenuScreenViewController.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB "/Users/jrk/Dropbox/Birthday Facts/Classes/WebViewController.xib"
+s315935082.715281
+e315935084.469364
+r1
+xCompileXIB
+x/Users/jrk/Dropbox/Birthday Facts/Classes/WebViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@40"CompileXIB Classes/WebViewController.xib315935082#315935084#0(168"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#63"/Users/jrk/Dropbox/Birthday Facts/Classes/WebViewController.xib8606662816#562"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/WebViewController.nib" "/Users/jrk/Dropbox/Birthday Facts/Classes/WebViewController.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB "/Users/jrk/Dropbox/Birthday Facts/MainWindow.xib"
+s315935073.676594
+e315935080.893613
+r1
+xCompileXIB
+x/Users/jrk/Dropbox/Birthday Facts/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib315935073#315935080#0(0"0(0#0#48"/Users/jrk/Dropbox/Birthday Facts/MainWindow.xib8611086432#540"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/MainWindow.nib" "/Users/jrk/Dropbox/Birthday Facts/MainWindow.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB "/Users/jrk/Dropbox/Birthday Facts/RootViewController.xib"
+s315935073.677212
+e315935081.288769
+r1
+xCompileXIB
+x/Users/jrk/Dropbox/Birthday Facts/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib315935073#315935081#0(0"0(0#0#56"/Users/jrk/Dropbox/Birthday Facts/RootViewController.xib8610989824#556"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/RootViewController.nib" "/Users/jrk/Dropbox/Birthday Facts/RootViewController.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCopyPNGFile "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/11-clock.png" 11-clock.png
+s315935081.920684
+e315935081.958882
+r1
+xCopyPNGFile
+x/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/11-clock.png
+x11-clock.png
+lSLF07#2@79"CopyPNGFile "build/Debug-iphoneos/Birthday Facts.app/11-clock.png" 11-clock.png315935081#315935081#0(0"0(0#0#46"/Users/jrk/Dropbox/Birthday Facts/11-clock.png8610999744#562"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/jrk/Dropbox/Birthday Facts/11-clock.png" "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/11-clock.png"0#
+
+CCopyPNGFile "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/11-clock@2x.png" 11-clock@2x.png
+s315935081.958960
+e315935082.012670
+r1
+xCopyPNGFile
+x/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/11-clock@2x.png
+x11-clock@2x.png
+lSLF07#2@85"CopyPNGFile "build/Debug-iphoneos/Birthday Facts.app/11-clock@2x.png" 11-clock@2x.png315935081#315935082#0(0"0(0#0#49"/Users/jrk/Dropbox/Birthday Facts/11-clock@2x.png8609610208#568"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/jrk/Dropbox/Birthday Facts/11-clock@2x.png" "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/11-clock@2x.png"0#
+
+CCopyPNGFile "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/back.png" back.png
+s315935083.531340
+e315935083.732349
+r1
+xCopyPNGFile
+x/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/back.png
+xback.png
+lSLF07#2@71"CopyPNGFile "build/Debug-iphoneos/Birthday Facts.app/back.png" back.png315935083#315935083#0(0"0(0#0#42"/Users/jrk/Dropbox/Birthday Facts/back.png8607489280#554"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/jrk/Dropbox/Birthday Facts/back.png" "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/back.png"0#
+
+CCopyPNGFile "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/back2.png" back2.png
+s315935084.182541
+e315935084.512739
+r1
+xCopyPNGFile
+x/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/back2.png
+xback2.png
+lSLF07#2@73"CopyPNGFile "build/Debug-iphoneos/Birthday Facts.app/back2.png" back2.png315935084#315935084#0(0"0(0#0#43"/Users/jrk/Dropbox/Birthday Facts/back2.png8608853280#556"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/jrk/Dropbox/Birthday Facts/back2.png" "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/back2.png"0#
+
+CCopyPNGFile "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/cake_lower.png" cake_lower.png
+s315935080.893793
+e315935081.789588
+r1
+xCopyPNGFile
+x/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/cake_lower.png
+xcake_lower.png
+lSLF07#2@83"CopyPNGFile "build/Debug-iphoneos/Birthday Facts.app/cake_lower.png" cake_lower.png315935080#315935081#0(0"0(0#0#48"/Users/jrk/Dropbox/Birthday Facts/cake_lower.png8605925856#566"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/jrk/Dropbox/Birthday Facts/cake_lower.png" "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/cake_lower.png"0#
+
+CCopyPNGFile "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/cake_lower_inverse.png" cake_lower_inverse.png
+s315935081.789671
+e315935081.920603
+r1
+xCopyPNGFile
+x/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/cake_lower_inverse.png
+xcake_lower_inverse.png
+lSLF07#2@99"CopyPNGFile "build/Debug-iphoneos/Birthday Facts.app/cake_lower_inverse.png" cake_lower_inverse.png315935081#315935081#0(0"0(0#0#56"/Users/jrk/Dropbox/Birthday Facts/cake_lower_inverse.png8605282176#582"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/jrk/Dropbox/Birthday Facts/cake_lower_inverse.png" "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/cake_lower_inverse.png"0#
+
+CCopyPNGFile "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/cake_upper.png" cake_upper.png
+s315935081.288857
+e315935081.849242
+r1
+xCopyPNGFile
+x/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/cake_upper.png
+xcake_upper.png
+lSLF07#2@83"CopyPNGFile "build/Debug-iphoneos/Birthday Facts.app/cake_upper.png" cake_upper.png315935081#315935081#0(0"0(0#0#48"/Users/jrk/Dropbox/Birthday Facts/cake_upper.png8611557696#566"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/jrk/Dropbox/Birthday Facts/cake_upper.png" "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/cake_upper.png"0#
+
+CCopyPNGFile "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/cake_upper_inverse.png" cake_upper_inverse.png
+s315935081.849336
+e315935081.982185
+r1
+xCopyPNGFile
+x/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/cake_upper_inverse.png
+xcake_upper_inverse.png
+lSLF07#2@99"CopyPNGFile "build/Debug-iphoneos/Birthday Facts.app/cake_upper_inverse.png" cake_upper_inverse.png315935081#315935081#0(0"0(0#0#56"/Users/jrk/Dropbox/Birthday Facts/cake_upper_inverse.png8611750560#582"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/jrk/Dropbox/Birthday Facts/cake_upper_inverse.png" "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/cake_upper_inverse.png"0#
+
+CCopyPNGFile "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/fonas_full-Decoded.png" fonas_full-Decoded.png
+s315935082.012751
+e315935082.715211
+r1
+xCopyPNGFile
+x/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/fonas_full-Decoded.png
+xfonas_full-Decoded.png
+lSLF07#2@99"CopyPNGFile "build/Debug-iphoneos/Birthday Facts.app/fonas_full-Decoded.png" fonas_full-Decoded.png315935082#315935082#0(0"0(0#0#56"/Users/jrk/Dropbox/Birthday Facts/fonas_full-Decoded.png8609010624#582"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/jrk/Dropbox/Birthday Facts/fonas_full-Decoded.png" "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/fonas_full-Decoded.png"0#
+
+CCopyPNGFile "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/logo_big.png" logo_big.png
+s315935083.732433
+e315935083.817993
+r1
+xCopyPNGFile
+x/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/logo_big.png
+xlogo_big.png
+lSLF07#2@79"CopyPNGFile "build/Debug-iphoneos/Birthday Facts.app/logo_big.png" logo_big.png315935083#315935083#0(0"0(0#0#46"/Users/jrk/Dropbox/Birthday Facts/logo_big.png8606899296#562"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/jrk/Dropbox/Birthday Facts/logo_big.png" "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/logo_big.png"0#
+
+CCopyPNGFile "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/logo_small.png" logo_small.png
+s315935083.818074
+e315935083.874456
+r1
+xCopyPNGFile
+x/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/logo_small.png
+xlogo_small.png
+lSLF07#2@83"CopyPNGFile "build/Debug-iphoneos/Birthday Facts.app/logo_small.png" logo_small.png315935083#315935083#0(0"0(0#0#48"/Users/jrk/Dropbox/Birthday Facts/logo_small.png8606232160#566"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/jrk/Dropbox/Birthday Facts/logo_small.png" "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/logo_small.png"0#
+
+CCopyPNGFile "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/three_item_menu_bottom.png" three_item_menu_bottom.png
+s315935083.874540
+e315935083.973610
+r1
+xCopyPNGFile
+x/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/three_item_menu_bottom.png
+xthree_item_menu_bottom.png
+lSLF07#2@107"CopyPNGFile "build/Debug-iphoneos/Birthday Facts.app/three_item_menu_bottom.png" three_item_menu_bottom.png315935083#315935083#0(0"0(0#0#60"/Users/jrk/Dropbox/Birthday Facts/three_item_menu_bottom.png8605849440#590"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/jrk/Dropbox/Birthday Facts/three_item_menu_bottom.png" "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/three_item_menu_bottom.png"0#
+
+CCopyPNGFile "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/three_item_menu_middle.png" three_item_menu_middle.png
+s315935083.973694
+e315935084.070905
+r1
+xCopyPNGFile
+x/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/three_item_menu_middle.png
+xthree_item_menu_middle.png
+lSLF07#2@107"CopyPNGFile "build/Debug-iphoneos/Birthday Facts.app/three_item_menu_middle.png" three_item_menu_middle.png315935083#315935084#0(0"0(0#0#60"/Users/jrk/Dropbox/Birthday Facts/three_item_menu_middle.png8604835712#590"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/jrk/Dropbox/Birthday Facts/three_item_menu_middle.png" "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/three_item_menu_middle.png"0#
+
+CCopyPNGFile "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/three_item_menu_top.png" three_item_menu_top.png
+s315935084.070986
+e315935084.182453
+r1
+xCopyPNGFile
+x/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/three_item_menu_top.png
+xthree_item_menu_top.png
+lSLF07#2@101"CopyPNGFile "build/Debug-iphoneos/Birthday Facts.app/three_item_menu_top.png" three_item_menu_top.png315935084#315935084#0(0"0(0#0#57"/Users/jrk/Dropbox/Birthday Facts/three_item_menu_top.png8596629856#584"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/jrk/Dropbox/Birthday Facts/three_item_menu_top.png" "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/three_item_menu_top.png"0#
+
+CCopyPNGFile "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/two_item_menu_bottom.png" two_item_menu_bottom.png
+s315935083.239032
+e315935083.385217
+r1
+xCopyPNGFile
+x/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/two_item_menu_bottom.png
+xtwo_item_menu_bottom.png
+lSLF07#2@103"CopyPNGFile "build/Debug-iphoneos/Birthday Facts.app/two_item_menu_bottom.png" two_item_menu_bottom.png315935083#315935083#0(0"0(0#0#58"/Users/jrk/Dropbox/Birthday Facts/two_item_menu_bottom.png8611171424#586"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/jrk/Dropbox/Birthday Facts/two_item_menu_bottom.png" "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/two_item_menu_bottom.png"0#
+
+CCopyPNGFile "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/two_item_menu_top.png" two_item_menu_top.png
+s315935083.385294
+e315935083.531255
+r1
+xCopyPNGFile
+x/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/two_item_menu_top.png
+xtwo_item_menu_top.png
+lSLF07#2@97"CopyPNGFile "build/Debug-iphoneos/Birthday Facts.app/two_item_menu_top.png" two_item_menu_top.png315935083#315935083#0(0"0(0#0#55"/Users/jrk/Dropbox/Birthday Facts/two_item_menu_top.png8609543616#580"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/jrk/Dropbox/Birthday Facts/two_item_menu_top.png" "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/two_item_menu_top.png"0#
+
+CCpResource "build/Debug-iphoneos/Birthday Facts.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+s315935073.499026
+e315935073.676517
+r1
+xCpResource
+xbuild/Debug-iphoneos/Birthday Facts.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist315935073#315935073#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist8101813437696656384#495"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app"0#
+
+CCpResource "build/Debug-iphoneos/Birthday Facts.app/iPad_fonas.jpg" iPad_fonas.jpg
+s315935082.692714
+e315935082.713382
+r1
+xCpResource
+xbuild/Debug-iphoneos/Birthday Facts.app/iPad_fonas.jpg
+xiPad_fonas.jpg
+lSLF07#2@19"Copy iPad_fonas.jpg315935082#315935082#0(0"0(0#0#48"/Users/jrk/Dropbox/Birthday Facts/iPad_fonas.jpg8606933920#456"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/jrk/Dropbox/Birthday Facts/iPad_fonas.jpg" "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app"0#
+
+CCreateUniversalBinary "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/Birthday Facts" normal "armv6 armv7"
+s315935091.931962
+e315935091.998796
+r1
+xCreateUniversalBinary
+x/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/Birthday Facts
+xnormal
+xarmv6 armv7
+lSLF07#2@99"CreateUniversalBinary "build/Debug-iphoneos/Birthday Facts.app/Birthday Facts" normal "armv6 armv7"315935091#315935091#0(0"0(0#0#45"/Users/jrk/Dropbox/Birthday Facts/armv6 armv78607563840#562"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/Birthday Facts" "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/Birthday Facts" -output "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/Birthday Facts"0#
+
+CDataModelVersionCompile "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/Birthday_Facts.momd" "/Users/jrk/Dropbox/Birthday Facts/Birthday_Facts.xcdatamodeld"
+s315935088.674591
+e315935088.890067
+r1
+xDataModelVersionCompile
+x/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/Birthday_Facts.momd
+x/Users/jrk/Dropbox/Birthday Facts/Birthday_Facts.xcdatamodeld
+lSLF07#2@113"DataModelVersionCompile "build/Debug-iphoneos/Birthday Facts.app/Birthday_Facts.momd" Birthday_Facts.xcdatamodeld315935088#315935088#0(0"0(0#0#61"/Users/jrk/Dropbox/Birthday Facts/Birthday_Facts.xcdatamodeld8606935168#355"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc "/Users/jrk/Dropbox/Birthday Facts/Birthday_Facts.xcdatamodeld" "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/Birthday_Facts.momd"0#
+
+CGenerateDSYMFile "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app.dSYM" "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/Birthday Facts"
+s315935091.998895
+e315935092.333736
+r1
+xGenerateDSYMFile
+x/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app.dSYM
+x/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/Birthday Facts
+lSLF07#2@120"GenerateDSYMFile "build/Debug-iphoneos/Birthday Facts.app.dSYM" "build/Debug-iphoneos/Birthday Facts.app/Birthday Facts"315935091#315935092#0(0"0(0#0#88"/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/Birthday Facts8607231360#374"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/Birthday Facts" -o "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app.dSYM"0#
+
+CLd "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/Birthday Facts" normal armv6
+s315935090.414903
+e315935091.201562
+r1
+xLd
+x/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/Birthday Facts
+xnormal
+xarmv6
+lSLF07#2@137"Link /Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/Birthday Facts315935090#315935091#0(0"0(0#0#0"8607449088#921"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk "-L/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos" "-F/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos" -filelist "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/Birthday Facts.LinkFileList" -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -framework iAd -o "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv6/Birthday Facts"0#
+
+CLd "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/Birthday Facts" normal armv7
+s315935091.501228
+e315935091.931876
+r1
+xLd
+x/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/Birthday Facts
+xnormal
+xarmv7
+lSLF07#2@137"Link /Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/Birthday Facts315935091#315935091#0(0"0(0#0#0"8604390976#921"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk "-L/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos" "-F/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos" -filelist "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/Birthday Facts.LinkFileList" -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -framework iAd -o "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Objects-normal/armv7/Birthday Facts"0#
+
+CProcessInfoPlistFile "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/Info.plist" Birthday_Facts-Info.plist
+s315935073.604985
+e315935073.616658
+r1
+xProcessInfoPlistFile
+x/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/Info.plist
+xBirthday_Facts-Info.plist
+lSLF07#2@33"Process Birthday_Facts-Info.plist315935073#315935073#0(0"0(0#0#59"/Users/jrk/Dropbox/Birthday Facts/Birthday_Facts-Info.plist8603891872#578"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Birthday_Facts-Info.plist -genpkginfo "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/ResourceRules.plist" -o "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/Info.plist"0#
+
+CProcessPCH /var/folders/It/IttwIeUMFDKZzn-5dyiHeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Birthday_Facts_Prefix-eqqbvhveemmuspgydnrvuqsieeqn/Birthday_Facts_Prefix.pch.gch Birthday_Facts_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315935084.527320
+e315935088.674492
+r1
+xProcessPCH
+x/var/folders/It/IttwIeUMFDKZzn-5dyiHeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Birthday_Facts_Prefix-eqqbvhveemmuspgydnrvuqsieeqn/Birthday_Facts_Prefix.pch.gch
+xBirthday_Facts_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile Birthday_Facts_Prefix.pch315935084#315935088#0(0"0(0#0#59"/Users/jrk/Dropbox/Birthday Facts/Birthday_Facts_Prefix.pch8611464928#1725"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-generated-files.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-own-target-headers.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-all-target-headers.hmap" -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-project-headers.hmap" "-F/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos" "-I/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/include" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources/armv7" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources" -c "/Users/jrk/Dropbox/Birthday Facts/Birthday_Facts_Prefix.pch" -o /var/folders/It/IttwIeUMFDKZzn-5dyiHeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Birthday_Facts_Prefix-eqqbvhveemmuspgydnrvuqsieeqn/Birthday_Facts_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/It/IttwIeUMFDKZzn-5dyiHeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Birthday_Facts_Prefix-geilgnoeyfgwrnfwgyvzzoslhaho/Birthday_Facts_Prefix.pch.gch Birthday_Facts_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315935084.512913
+e315935088.456141
+r1
+xProcessPCH
+x/var/folders/It/IttwIeUMFDKZzn-5dyiHeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Birthday_Facts_Prefix-geilgnoeyfgwrnfwgyvzzoslhaho/Birthday_Facts_Prefix.pch.gch
+xBirthday_Facts_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile Birthday_Facts_Prefix.pch315935084#315935088#0(0"0(0#0#59"/Users/jrk/Dropbox/Birthday Facts/Birthday_Facts_Prefix.pch8606656480#1725"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-generated-files.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-own-target-headers.hmap" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-all-target-headers.hmap" -iquote "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts-project-headers.hmap" "-F/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos" "-I/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/include" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources/armv6" "-I/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/DerivedSources" -c "/Users/jrk/Dropbox/Birthday Facts/Birthday_Facts_Prefix.pch" -o /var/folders/It/IttwIeUMFDKZzn-5dyiHeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Birthday_Facts_Prefix-geilgnoeyfgwrnfwgyvzzoslhaho/Birthday_Facts_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/jrk/Library/MobileDevice/Provisioning Profiles/2B52CCCB-FFDC-4D4A-B3C2-960BABDED001.mobileprovision" "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/embedded.mobileprovision"
+r0
+
+CProcessProductPackaging "/Users/jrk/Library/MobileDevice/Provisioning Profiles/CE2D2884-90BB-4961-9234-14481A2D911D.mobileprovision" "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/embedded.mobileprovision"
+s315935092.333823
+e315935092.335091
+r1
+xProcessProductPackaging
+x/Users/jrk/Library/MobileDevice/Provisioning Profiles/CE2D2884-90BB-4961-9234-14481A2D911D.mobileprovision
+x/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/embedded.mobileprovision
+lSLF07#2@199"ProcessProductPackaging "/Users/jrk/Library/MobileDevice/Provisioning Profiles/CE2D2884-90BB-4961-9234-14481A2D911D.mobileprovision" "build/Debug-iphoneos/Birthday Facts.app/embedded.mobileprovision"315935092#315935092#0(0"0(0#0#98"/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/embedded.mobileprovision8609024704#422"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/jrk/Library/MobileDevice/Provisioning Profiles/CE2D2884-90BB-4961-9234-14481A2D911D.mobileprovision" -o "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app/embedded.mobileprovision"0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts.xcent"
+s315935092.380301
+e315935092.395152
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+x/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts.xcent
+lSLF07#2@198"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist "build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts.xcent"315935092#315935092#0(0"0(0#0#117"/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts.xcent8607088800#447"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist -entitlements -format xml -o "/Users/jrk/Dropbox/Birthday Facts/build/Birthday Facts.build/Debug-iphoneos/Birthday Facts.build/Birthday Facts.xcent"0#
+
+CTouch "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app"
+s315935092.335142
+e315935092.380198
+r1
+xTouch
+x/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app
+lSLF07#2@79"Touch /Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app315935092#315935092#0(0"0(0#0#0"8607621504#265"    cd "/Users/jrk/Dropbox/Birthday Facts"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/jrk/Dropbox/Birthday Facts/build/Debug-iphoneos/Birthday Facts.app"0#
+

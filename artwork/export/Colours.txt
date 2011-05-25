@@ -1,0 +1,11 @@
+Font-color   (table) : #afa89d
+Table-Rahmen         : #d2cfc2
+
+blau 1: #9fe6da = 159, 230, 218
+blau 2: #7ad2eb = 122, 210, 235
+
+rosa 1: #fdbac6
+rosa 2: #f8ced5
+
+gelb 1: #f1eeb8
+gelb 2: #fefcbc
